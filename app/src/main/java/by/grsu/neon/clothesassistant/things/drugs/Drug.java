@@ -1,9 +1,9 @@
 package by.grsu.neon.clothesassistant.things.drugs;
 
-import by.grsu.neon.clothesassistant.things.Thing;
+import by.grsu.neon.clothesassistant.things.ThingBase;
 
 /**
  * Лекарство
  */
-public abstract class Drug extends Thing {
+public abstract class Drug extends ThingBase {
 }

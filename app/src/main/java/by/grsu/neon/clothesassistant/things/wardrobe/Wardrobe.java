@@ -1,9 +1,9 @@
 package by.grsu.neon.clothesassistant.things.wardrobe;
 
-import by.grsu.neon.clothesassistant.things.Thing;
+import by.grsu.neon.clothesassistant.things.ThingBase;
 
 /**
  * Гардероб
  */
-public abstract class Wardrobe extends Thing {
+public abstract class Wardrobe extends ThingBase {
 }

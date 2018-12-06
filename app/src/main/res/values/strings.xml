@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">ClothesAssistant</string>
+    <string name="app_name">TravelAssistant</string>
+    <string name="appId">appId=db10006d</string>
+    <string name="appKey">appKey=cde36aa04dd7e830f1dbb45087abee86</string>
+    <string name="api_url">https://api.flightstats.com/flex/</string>
+    <string name="airport_url">airports/rest/v1/json/iata/</string>
+    <string name="flight_status_url">flightstatus/rest/v2/airport/status/</string>
+    <string name="flight_type">dep</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Travel Assistant</string>
+    <string name="nav_header_subtitle">Created by Nikolay Moskal © 2018</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="dep_airport">Аэропорт вылета</string>
+    <string name="airport_code">Код аэропорта</string>
+    <string name="arv_airport">Аэропорт прилета</string>
+    <string name="send_button">Отправить</string>
 </resources>
